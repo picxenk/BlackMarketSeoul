@@ -1,4 +1,3 @@
-  <pre>
   인터넷 블랙 마켓 (Internet Black Market)
 
   일시 : 8월 29일 토요일
@@ -78,5 +77,3 @@
 
   supported by 
   보안여관 Artspace Boan 1942
-  </pre>
-  <hr>
