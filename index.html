@@ -7,8 +7,9 @@ subheading: 블랙 마켓 서울
 {% include header.html %}
 
 <div class="container">
-  {% markdown intro.md %}
-  {% include features.html %}
-  {% include footer.html %}
+{% capture include-intro %}{% include intro.md %}{% endcapture %}
+{{ include-intro | markdownify }}
+{% include features.html %}
+{% include footer.html %}
 </div>
 
