@@ -1,4 +1,3 @@
-<div markdown='1'>
 일시 : 8월 29일 토요일
 시간 : 오후 4시-9시
 장소 : 보안여관 
@@ -76,5 +75,3 @@ http://protoroom.kr/ / http://www.fabcoop.org/
 
 supported by 
 보안여관 Artspace Boan 1942
-
-</div>
