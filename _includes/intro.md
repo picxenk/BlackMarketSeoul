@@ -63,8 +63,7 @@ World Wide Internet Yami-ichi Weeks
 
 
 seoul organized by 
-PROTOROOM & FAB COOP (청개구리제작소)
-http://protoroom.kr/ / http://www.fabcoop.org/
+[PROTOROOM](http://protoroom.kr/) & [FAB COOP (청개구리제작소)](http://www.fabcoop.org/)
 
 supported by 
 보안여관 Artspace Boan 1942
