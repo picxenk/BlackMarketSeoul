@@ -6,6 +6,7 @@
 * 시간 : 오후 4시-9시
 * 장소 : 보안여관 
 * 오는 길 : [http://bit.ly/1WRAP05](http://bit.ly/1WRAP05)
+* [페이스북 이벤트 페이지 Facebook event Page](https://www.facebook.com/events/1606831946242562/)
 
 
 ### 오프닝 퍼포먼스 
