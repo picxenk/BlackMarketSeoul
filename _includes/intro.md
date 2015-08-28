@@ -2,7 +2,7 @@
 * 일시 : 8월 29일 토요일
 * 시간 : 오후 4시-9시
 * 장소 : 보안여관 
-* 오는 길 : http://bit.ly/1WRAP05
+* 오는 길 : [http://bit.ly/1WRAP05](http://bit.ly/1WRAP05)
 
 > 자연이자 삶이 되어 가는 인터넷의 의미를 다르게 묻는 사물과 개념, 행위를 판매하는 시장, 인터넷 블랙 마켓이 오는 토요일(29일) 보안여관에서 열립니다. 미디어 작가, 활동가, 디자이너, 인문학자, 영상작가, 개발자, 제작자,사운드 작가, 건축가 등 25팀, 42명의 작업자들이 참여해 인터넷을 주제로 한 유형,무형의 사물들을 판매하고, 만들고, 퍼포먼스를 벌입니다. 풍자와 블랙 유머의 암시장, 인터넷 블랙 마켓에 놀러오세요!
 
@@ -43,6 +43,7 @@ VJ youngshin : 질문을 사세요!
 ### 인터넷 블랙마켓은...
 일본의 뉴미디어 아티스트 '엑소니모'를 주축으로 한 '100년의 역사를 자랑하는 비밀 결사 조직' idpw'이 2012년부터 시작한 행사입니다. 이번에는 '월드와이드 인터넷 블랙마켓 위크' 라는 이름으로 5개 도시(서울,뉴욕,린츠, 타이창, 상파울로)에서 동시 다발로 진행됩니다. 
 
+```
 월드와이드 인터넷 블랙 마켓 위크 2015
 World Wide Internet Yami-ichi Weeks
 8.22 ☞ 9.13, 2015 
@@ -52,14 +53,15 @@ World Wide Internet Yami-ichi Weeks
 타이창 (National Museum of Taiwan 8/29)
 린츠 (Ars Electronica 9/5)
 뉴욕(knock center 9/12 )
+```
 
 
 ### 관련 사이트
 
-* 엑소니모 사이트 http://exonemo.com/
-* 인터넷 블랙 마켓 사이트 http://yami-ichi.biz/
-* 인터넷 블랙 마켓 2015 사이트 http://yami-ichi.biz/wwyw/
-* 인터넷 블랙 마켓 영상 https://www.youtube.com/watch?v=mjWJsE7B1cs 
+* [엑소니모 사이트 exonemo.com](http://exonemo.com/)
+* [인터넷 블랙 마켓 사이트 yami-ichi.biz](http://yami-ichi.biz/)
+* [인터넷 블랙 마켓 2015 사이트 yami-ichi.biz/wwyw](http://yami-ichi.biz/wwyw/)
+* [인터넷 블랙 마켓 영상](https://www.youtube.com/watch?v=mjWJsE7B1cs)
 
 
 seoul organized by 
