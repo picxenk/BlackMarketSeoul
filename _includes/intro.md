@@ -9,15 +9,15 @@
 * [페이스북 이벤트 페이지 Facebook event Page](https://www.facebook.com/events/1606831946242562/)
 
 
-### 오프닝 퍼포먼스 
+### 오프닝 퍼포먼스 Opening Performance
 일렉트로닉 굿 : 후니다 김 & 신원정
 
 
-### 퍼포먼스
+### 퍼포먼스Performance
 NO INTERNET DO YOUR YOGA : 릴리쿰 
 
 
-### 참가팀 및 작업명
+### 참가팀 및 작업명Vendors
 * 김미영 팀장님(이상미, 윤혜정,윤창환) : 정보는 힘이다
 * 김진원 : 키키그라피
 * 뉴상준 : 쓰레기 쇼크
@@ -45,12 +45,11 @@ NO INTERNET DO YOUR YOGA : 릴리쿰
 * VJ youngshin : 질문을 사세요!
 
 
-### 인터넷 블랙마켓은...
+### 인터넷 블랙마켓은... Internet Black Market is...
 일본의 뉴미디어 아티스트 '엑소니모'를 주축으로 한 '100년의 역사를 자랑하는 비밀 결사 조직' idpw'이 2012년부터 시작한 행사입니다. 이번에는 '월드와이드 인터넷 블랙마켓 위크' 라는 이름으로 5개 도시(서울,뉴욕,린츠, 타이창, 상파울로)에서 동시 다발로 진행됩니다. 
 
 
-### 월드와이드 인터넷 블랙 마켓 위크 2015
-World Wide Internet Yami-ichi Weeks
+### 월드와이드 인터넷 블랙 마켓 위크 2015 World Wide Internet Yami-ichi Weeks
 
 8.22 ☞ 9.13, 2015 
 
@@ -61,7 +60,7 @@ World Wide Internet Yami-ichi Weeks
 * 뉴욕(knock center 9/12 )
 
 
-### 관련 사이트
+### 관련 사이트Sites
 
 * [엑소니모 사이트 exonemo.com](http://exonemo.com/)
 * [인터넷 블랙 마켓 사이트 yami-ichi.biz](http://yami-ichi.biz/)
@@ -69,8 +68,8 @@ World Wide Internet Yami-ichi Weeks
 * [인터넷 블랙 마켓 영상](https://www.youtube.com/watch?v=mjWJsE7B1cs)
 
 
-seoul organized by 
+**seoul organized by**
 [PROTOROOM](http://protoroom.kr/) & [FAB COOP (청개구리제작소)](http://www.fabcoop.org/)
 
-supported by 
+**supported by**
 보안여관 Artspace Boan 1942
